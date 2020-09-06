@@ -8,9 +8,9 @@ The purpose of this analysis is to draw correlations in the data between success
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-This analysis was performed using pivot table in Microsoft Excel to compare the outcomes (successful, failed, and cancelled) to the month of the year that the kickstarter campaign launched. The spreadsheet and graph can be found in the repository at: https://github.com/danjberes/kickstarter-analysis 
+This analysis was performed using pivot table in Microsoft Excel to compare the outcomes (successful, failed, and cancelled) to the month of the year that the kickstarter campaign launched. The spreadsheet and graph can be found in the repository at: https://github.com/danjberes/kickstarter-analysis/blob/master/Kickstarter_Challenge.zip and https://github.com/danjberes/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png
 ### Analysis of Outcomes Based on Goals
-This analysis was performed using Microsoft Excel comparing completed or cancelled kickstarter campaigns against their anticipated goals. The spreadsheet and graphs can be found in the repository at: https://github.com/danjberes/kickstarter-analysis
+This analysis was performed using Microsoft Excel comparing completed or cancelled kickstarter campaigns against their anticipated goals. The spreadsheet and graphs can be found in the repository at: https://github.com/danjberes/kickstarter-analysis/blob/master/Kickstarter_Challenge.zip and https://github.com/danjberes/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png
 ### Challenges and Difficulties Encountered
 Potential difficulties in this analysis could come from improper coding in the COUNTIFS function (such as not using quotation marks when using dollar amounts as criteria). 
 ## Results
